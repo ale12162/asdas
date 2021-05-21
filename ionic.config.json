@@ -1,0 +1,7 @@
+{
+  "name": "Appcoi-Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
